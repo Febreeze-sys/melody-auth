@@ -1,7 +1,7 @@
 name = "melody-auth"
 compatibility_date = "2024-07-20"
 keep_vars = true
-
+main = "src/index.js"
 [vars]
 
 # Branding
